@@ -39,4 +39,4 @@ This project is a simple **Image Filter API** built with Node.js and Express, de
 
 3. **ebs public application link**
 
-    [Link Text](http://elastic-bean-stalk-image-processing-dev.us-east-1.elasticbeanstalk.com/)
+    [Demo link](http://elastic-bean-stalk-image-processing-dev.us-east-1.elasticbeanstalk.com/)
